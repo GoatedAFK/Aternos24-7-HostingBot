@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "YourBotUsername",
+    "username": "24/7serveronline",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
-    "port": 25565,
+    "ip": "TokenSMPBE.aternos.me:19941",
+    "port": 19941,
     "version": "",
     "try-creative": false
   },
