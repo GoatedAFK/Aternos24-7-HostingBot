@@ -8,7 +8,7 @@
   "server": {
     "ip": "TokenSMPBE.aternos.me:19941",
     "port": 19941,
-    "version": "",
+    "version": "26.2",
     "try-creative": false
   },
   "position": {
@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "YourAuthPassword"
+      "password": "false"
     },
     "anti-afk": {
       "enabled": true,
